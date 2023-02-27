@@ -25,3 +25,16 @@ Each digit is represented in the dataset as follows
 | 8 | 5851 | 974 |
 | 9 | 5949 | 1009 |
 </center>
+
+## Launch the project
+Make sur you have already installed **docker** and **docker-compose**
+
+```console
+foo@bar:~$ docker-compose up --build
+```
+
+<center>
+
+##### Made with :heart: by me
+thank you
+</center>
