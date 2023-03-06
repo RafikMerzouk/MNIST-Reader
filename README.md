@@ -33,9 +33,11 @@ Make sur you have already installed **docker** and **docker-compose**
 foo@bar:~$ docker-compose up --build
 ```
 
-<center>
+Thank you
 
-##### Made with :heart: by me
-thank you
 
-</center>
+<p align="center">
+  <div class="footer">
+            &copy; Made with :heart: by me
+        </div>
+</p>
